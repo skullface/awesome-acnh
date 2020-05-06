@@ -115,7 +115,7 @@
 
 #### Music
 * If you place more than one stereo in a room in your house, it will amplify the registered song.
-* All stereos placed outside will play the same registered song. Your villagers will pay attention!
+* Each stereo placed outside can play a different registered song, but you‘ll only hear the closest one. Your villagers will pay attention to music they hear!
 * Your villagers will be interested in instruments placed outside.
 
 #### Clothing and designs
