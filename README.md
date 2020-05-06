@@ -196,7 +196,7 @@ Your island will receive regular visitors a few times a week. All visitors arriv
 | Kicks | Plaza | | 10:00 pm 🌙 | Monday – Friday |
 | Label | Plaza | | midnight 🌙 | Monday – Friday |
 | K.K. Slider | Plaza | 6:00 am ☀️ | midnight 🌙 | Saturday only |
-| Leif | Plaza | | 10:00 pm 🌙 | |
+| Leif | Plaza | | 10:00 pm 🌙 | _unknown_ |
 
 ### Wisp
 After you complete Wisp’s quest you can choose between two options:
