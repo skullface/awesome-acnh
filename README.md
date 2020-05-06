@@ -193,7 +193,6 @@ Your island will receive regular visitors a few times a week. All visitors arriv
 | Flick | roaming | | | except Saturday |
 | Gulliver | beach | | | except Saturday |
 | Celeste | roaming | 7:00 pm 🌙 | | |
-| Mabel | Plaza | | 10:00 pm 🌙 | |
 | Kicks | Plaza | | 10:00 pm 🌙 | Monday – Friday |
 | Label | Plaza | | midnight 🌙 | Monday – Friday |
 | K.K. Slider | Plaza | 6:00 am ☀️ | midnight 🌙 | Saturday only |
