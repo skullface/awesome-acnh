@@ -101,13 +101,13 @@
 ### General gameplay, quirks, and delights
 * If you need to craft something on your island but you’re far from one of your own benches, try popping into one of your villager’s houses to see if their DIY Craft bench is out, or use the one by Tom Nook inside Resident Services!
 * If you are physically sharing your Nintendo Switch, the first account to play the game owns the island and dictates initial progress.
+* If you want to get rid of an item in your pocket and cannot re-sell it or give it away, you can permanently throw them out in a garbage can if you have one placed in your home or outside.
 
 #### Flora
 * Palm trees only grow in sand (either from your beaches or a sand path via the Island Designer NookPhone app).
-* You cannot give uprooted flowers to another villager or player, nor sell them, nor store them in your house. If you want to get rid of flowers in your pocket, you can permanently throw them out in a garbage can if you have one placed in your home or outside. 
+* You cannot give uprooted flowers or trees to another villager or player, nor store them in your house. 
 * You may plant uprooted flowers in your pocket on another player’s island, even if you aren’t Best Friends.
 * Trees can be uprooted by eating food and using your shovel to dig up the tree.
-* You cannot give uprooted trees to another villager or player, nor store them in your house.
 * Trees need at least 1 empty space in all directions around them to grow. Once a tree is fully grown, it can be moved to be closer to other objects (other trees, furniture, flowers, fencing, etc.) by uprooting it and replanting it.
 
 #### Time
