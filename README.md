@@ -77,7 +77,7 @@
 * Hold <kbd>A</kbd> on an item to grab it and reorganize things in your pocket
 * Hold <kbd>B</kbd> to run
 * Press <kbd>A</kbd> while crafting/customizing to speed up the animation
-* Press <kbd>B</kbd> while talking to characters to speed up the conversation
+* Press <kbd>B</kbd> or <kbd>L</kbd> while talking to characters to speed up the conversation
 * Use the left <kbd>←</kbd> and right <kbd>→</kbd> directional-pad arrows to cycle through your Favorite tools
 * Press the down <kbd>↓</kbd> directional-pad arrow to put away/take out your last-used tool
 * Press <kbd>Y</kbd> to fill in a hole without using your shovel
