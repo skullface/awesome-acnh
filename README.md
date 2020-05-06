@@ -42,6 +42,7 @@
 
 ### General information
 * [**Polygon guides**](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21170563/tips-tricks-walkthrough-bells-nook-miles-tickets-mileage-rewards-turnips): Excellent guides for most everything you need to know, including a First and Second Week walkthrough. `⭐️ strongly recommended` 
+* [**Transcribed guidebook**](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/preview#): Community crowd-sourced document sharing facts from Nintendo’s official guide. _⚠️ Beware of spoilers_!
 
 ### Gameplay
 * [**Travel Guide**](https://jeffreykuiken.nl/acnhtg/): iOS app to serve as your pocket companion while playing; listing bugs and fish available to catch _right now_, with location, size and sale prices; inventory of villagers and all items including fossils, art, K.K. Slider songs, and flowers. `⭐️ strongly recommended` 
@@ -198,6 +199,15 @@ Your island will receive regular visitors a few times a week. All visitors arriv
 | K.K. Slider | Plaza | 6:00 am ☀️ | midnight 🌙 | Saturday only |
 | Leif | Plaza | | 10:00 pm 🌙 | |
 
+### Wisp
+After you complete Wisp’s quest you can choose between two options:
+
+* **Something you don’t have yet**: Wisp will pick a random item that you don’t have in your Nook Shopping list worth ≤1,500 Bells or less. If your catalog is complete, a random item worth ≤1,500 bells. Once your house is upgraded from a tent, you have the following chances of item type:
+  * Furniture: 40%
+  * Wallpaper/Flooring: 24%
+  * Bed: 24%
+  * Clothing: 12%
+* **Something expensive**: Wisp will pick an item with a buying price of ≤10,000 Bells.
 
 ## Tool durability
 Tools only wear down when your action is successful. Ladders, Vaulting Poles, and Wands will not break. Watering empty land decreases a Watering Can’s durability by 10% of its use on flower(s). <sup>[`source`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/31/21194209/durability-list-broken-breaking-shovel-axe-fishing-rod-watering-can-slingshot-bug-net)</sup>
