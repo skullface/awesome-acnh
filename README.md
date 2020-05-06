@@ -94,7 +94,7 @@
 * You can plant flowers in your pocket on another player’s island, even if you aren’t Best Friends.
 * If you’ve eaten more fruit than you’d like, try sitting on a toilet.
 * If you place more than one stereo in a room in your house, it will amplify the registered song.
-* All stereos placed outside will play the same registered song. Your villagers will pay attention!
+* Each stereo placed outside can play a different registered song, but you‘ll only hear the closest one. Your villagers will pay attention to music they hear!
 * If you create outfits with a Wand, the wearable items in the outfits are “stored” in the Wand and are unusable in other outfits.
 * The exception to a new day’s changes occuring at 5:00 am (see: [Timing](#timing)) are critters appearing or disappearing at the start of a new month. These changes occur at midnight when the local date changes.
 
