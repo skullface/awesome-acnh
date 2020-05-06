@@ -26,6 +26,7 @@
 * [Tips](#tips)
   * [General gameplay, quirks, and delights](#general-gameplay-quirks-and-delights)
     * [Flora](#flora)
+    * [Time](#time)
     * [Eating](#eating)
     * [Music](#music)
     * [Clothing and designs](#clothing-and-designs)
@@ -99,7 +100,6 @@
 
 ### General gameplay, quirks, and delights
 * If you need to craft something on your island but you’re far from one of your own benches, try popping into one of your villager’s houses to see if their DIY Craft bench is out, or use the one by Tom Nook inside Resident Services!
-* Weather changes only occur on the hour.
 * If you are physically sharing your Nintendo Switch, the first account to play the game owns the island and dictates initial progress.
 
 #### Flora
@@ -109,6 +109,10 @@
 * Trees can be uprooted by eating food and using your shovel to dig up the tree.
 * You cannot give uprooted trees to another villager or player, nor store them in your house.
 * Trees need at least 1 empty space in all directions around them to grow. Once a tree is fully grown, it can be moved to be closer to other objects (other trees, furniture, flowers, fencing, etc.) by uprooting it and replanting it.
+
+#### Time
+* Weather changes only occur on the hour.
+* The exception to a new day’s changes occuring at 5:00 am (see: [Timing](#timing)) are critters appearing or disappearing at the start of a new month. These changes occur at midnight when the local date changes.
 
 #### Eating
 * If you eat food before you hit a stone, it will break. The stone will reappear a new area the following day.
@@ -121,7 +125,6 @@
 
 #### Clothing and designs
 * If you create outfits with a Wand, the wearable items in the outfits are “stored” in the Wand and are unusable in other outfits.
-* The exception to a new day’s changes occuring at 5:00 am (see: [Timing](#timing)) are critters appearing or disappearing at the start of a new month. These changes occur at midnight when the local date changes.
 * The following items retain their most recent customization even after the art in the custom design slot is deleted or changed: island flag, phone case, face paint.
 
 ### Visiting other islands
