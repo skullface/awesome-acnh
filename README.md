@@ -14,13 +14,21 @@
 
 ## Contents
 * [Resources and guides](#resources-and-guides)
+  * [General information](#general-information)
+  * [Gameplay](#gameplay)
+  * [Custom designs](#custom-designs)
+  * [Island tune](#island-tune)
+  * [Trading/Catalog](#tradingcatalog)
+  * [Turnips and the Stalk Market](#turnips-and-the-stalk-market)
+  * [Layout](#layout)
 * [Controls](#controls)
 * [Tips](#tips)
-  * [General gameplay](#general-gameplay-quirks-and-delights)
+  * [General gameplay, quirks, and delights](#general-gameplay-quirks-and-delights)
   * [Visiting other islands](#visiting-other-islands)
 * [Timing](#timing)
   * [Dailies](#dailies)
-* [Tool Durability](#tool-durability)
+* [Tool durability](#tool-durability)
+
 
 ---
 
