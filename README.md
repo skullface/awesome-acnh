@@ -24,6 +24,10 @@
 * [Controls](#controls)
 * [Tips](#tips)
   * [General gameplay, quirks, and delights](#general-gameplay-quirks-and-delights)
+    * [Flora](#flora)
+    * [Eating](#eating)
+    * [Music](#music)
+    * [Clothing and designs](#clothing-and-designs)
   * [Visiting other islands](#visiting-other-islands)
 * [Timing](#timing)
   * [Dailies](#dailies)
@@ -86,17 +90,31 @@
 ## Tips
 
 ### General gameplay, quirks, and delights
-* The following items retain their most recent customization even after the art in the custom design slot is deleted or changed: island flag, phone case, face paint.
 * If you need to craft something on your island but you’re far from one of your own benches, try popping into one of your villager’s houses to see if their DIY Craft bench is out, or use the one by Tom Nook inside Resident Services!
 * Weather changes only occur on the hour.
-* You cannot give uprooted trees to another villager or player, nor store them in your house.
+* If you are physically sharing your Nintendo Switch, the first account to play the game owns the island and dictates initial progress.
+
+#### Flora
+* Palm trees only grow in sand (either from your beaches or a sand path via the Island Designer NookPhone app).
 * You cannot give uprooted flowers to another villager or player, nor sell them, nor store them in your house. If you want to get rid of flowers in your pocket, you can permanently throw them out in a garbage can if you have one placed in your home or outside. 
-* You can plant flowers in your pocket on another player’s island, even if you aren’t Best Friends.
-* If you’ve eaten more fruit than you’d like, try sitting on a toilet.
+* You may plant uprooted flowers in your pocket on another player’s island, even if you aren’t Best Friends.
+* Trees can be uprooted by eating food and using your shovel to dig up the tree.
+* You cannot give uprooted trees to another villager or player, nor store them in your house.
+* Trees need at least 1 empty space in all directions around them to grow. Once a tree is fully grown, it can be moved to be closer to other objects (other trees, furniture, flowers, fencing, etc.) by uprooting it and replanting it.
+
+#### Eating
+* If you eat food before you hit a stone, it will break. The stone will reappear a new area the following day.
+* If you’ve eaten more food than you’d like, try sitting on a toilet.
+
+#### Music
 * If you place more than one stereo in a room in your house, it will amplify the registered song.
 * All stereos placed outside will play the same registered song. Your villagers will pay attention!
+* Your villagers will be interested in instruments placed outside.
+
+#### Clothing and designs
 * If you create outfits with a Wand, the wearable items in the outfits are “stored” in the Wand and are unusable in other outfits.
 * The exception to a new day’s changes occuring at 5:00 am (see: [Timing](#timing)) are critters appearing or disappearing at the start of a new month. These changes occur at midnight when the local date changes.
+* The following items retain their most recent customization even after the art in the custom design slot is deleted or changed: island flag, phone case, face paint.
 
 ### Visiting other islands
 * Don’t run through flowers. It takes time for the blooms to grow back. Be sure to walk wherever you see flowers.
@@ -105,6 +123,7 @@
 * Don’t shake trees, chop wood, grab shells, pick flowers, etc. without asking first. Most friends will be totally okay with you taking replenishable resources, but it’s always polite to ask.
 * If you’re visiting a stranger for a trade, it’s polite not to talk to their residents. Villagers will remember you and ask about you, and it can be awkward and unwanted for a neighbor to ask about a stranger that came by for a deal!
 * Unlike Sahara, Leif, Kicks, etc., you can only buy one piece of art from any Jolly Redd per day and obtain one recipe from any Celeste per night.
+* Adding a player to your Best Friends list via the NookPhone means you can use your shovel and axe tools on their island.
 * If you’re visiting an island for a particular recipe a villager is crafting at their DIY bench, check the map on your NookPhone to see where their house is!
 * Download the [Nintendo Switch Online app](https://www.nintendo.com/switch/online-service/app/) for your phone to use the NookLink feature to type messages in-game using your phone’s keyboard instead of the game controller.
 
