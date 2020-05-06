@@ -18,6 +18,7 @@
   * [Gameplay](#gameplay)
   * [Custom designs](#custom-designs)
   * [Island tune](#island-tune)
+  * [Gardening](#gardening)
   * [Trading/Catalog](#tradingcatalog)
   * [Turnips and the Stalk Market](#turnips-and-the-stalk-market)
   * [Layout](#layout)
@@ -31,6 +32,7 @@
   * [Visiting other islands](#visiting-other-islands)
 * [Timing](#timing)
   * [Dailies](#dailies)
+* [NPC visitors](#npc-visitors)
 * [Tool durability](#tool-durability)
 
 
@@ -43,7 +45,7 @@
 
 ### Gameplay
 * [**Travel Guide**](https://jeffreykuiken.nl/acnhtg/): iOS app to serve as your pocket companion while playing; listing bugs and fish available to catch _right now_, with location, size and sale prices; inventory of villagers and all items including fossils, art, K.K. Slider songs, and flowers. `⭐️ strongly recommended` 
-* [**Critterpedia**](https://critterpedia.moppler.co.uk): Mobile-first web app listing bugs and fish available to catch _right now_, with location and sale price.
+* [**Critterpedia**](https://critterpedia.moppler.co.uk): Mobile-first web app listing bugs and fish available to catch _right now_, with location and sale price. [This project is on GitHub :octocat:](https://github.com/Moppler/Critterpedia)!
 * [**Mystery Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Nook Miles island layouts and the probability of landing on them.
 
 ### Custom designs
@@ -54,6 +56,11 @@
 
 ### Island tune
 * [**AC Tune Maker**](https://ac-tune-maker.aikats.us/): Web app to easily make and share an island tune. [This project is on GitHub :octocat:](https://github.com/walfie/ac-tune-maker)
+
+### Gardening
+* [**Garden science FAQ**](https://docs.google.com/document/d/1XPAaPUvGMWQ-n5sBLV3jM78QKxqKjiGCzx5HnD7K5RI/preview): Knowledge about hybrid flowers is always changing — this guide contains the most up-to-date and accurated crowdsourced information and shows you which graphics are outdated by their findings.
+* [**Flower breeding simulator**](https://gardenscience.ac/): In-browser simulator of hybrid possibilities determined by genetics.
+* [**Flower research links**](https://docs.google.com/spreadsheets/d/1rbYbQ0i3SuTu30KTma5dO4uuJWr_SjOZXA1l4UOIHWo/edit?usp=sharing): Spreadsheet containing links to information sanctioned by the above researchers and collaborators. 
 
 ### Trading/Catalog
 <sup>⚠️ <em>Potential spoiler content in the links below!</em></sup>
@@ -169,6 +176,28 @@ Every day starting at 🕔 **`5:00 am`**, you can accomplish these tasks all ove
     * [ ] Shake for ~💰1,000 Bells (dropped as 100 Bell coins)
     * [ ] Catch 5 wasps/wasp nests
     * [ ] Chop wood
+
+
+## NPC visitors
+<sup>⚠️ <em>Potential spoiler content!</em></sup> 
+ 
+Your island will receive regular visitors a few times a week. All visitors arrive at `5:00 am` and will stay until `5:00 am` the next day unless otherwise stated. <sup><a href="https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/preview#"><code>source</code></a></sup>
+
+| Visitor | Location | Arrives | Departs | Day of week |
+|---|---|---|---|---|
+| Wisp | roaming cliffs | 8:00 pm 🌙 | | |
+| Sahara | roaming | | midnight 🌙 | |
+| Daisy Mae | roaming | | 12:00 pm ☀️ | Sunday only |
+| CJ | roaming | | | except Saturday |
+| Flick | roaming | | | except Saturday |
+| Gulliver | beach | | | except Saturday |
+| Celeste | roaming | 7:00 pm 🌙 | | |
+| Mabel | Plaza | | 10:00 pm 🌙 | |
+| Kicks | Plaza | | 10:00 pm 🌙 | Monday – Friday |
+| Label | Plaza | | midnight 🌙 | Monday – Friday |
+| K.K. Slider | Plaza | 6:00 am ☀️ | midnight 🌙 | Saturday only |
+| Leif | Plaza | | 10:00 pm 🌙 | |
+
 
 ## Tool durability
 Tools only wear down when your action is successful. Ladders, Vaulting Poles, and Wands will not break. Watering empty land decreases a Watering Can’s durability by 10% of its use on flower(s). <sup>[`source`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/31/21194209/durability-list-broken-breaking-shovel-axe-fishing-rod-watering-can-slingshot-bug-net)</sup>
