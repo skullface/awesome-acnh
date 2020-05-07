@@ -141,18 +141,18 @@
 ## Friendship
 Certain actions will raise or lower your friendship ranking with your villagers. Note: Friendship rankings do not correlate to move-out requests, which are randomized. <sup>[`source`](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/edit#heading=h.kmdduxio23l3)</sup>
 
-### ➕ Raise Friendship 
+### ➕ Raise friendship ranking
 * Talk to them (once per day)
-* Send them a letter (friendship increases when they reply)
-* Give them a present (when friendship is already high)
+* Send them a letter (increases when they reply)
+* Give them a present (when ranking is already high)
 * Give them a wrapped birthday gift
 * Complete a request for them
 * Sell them an item they want
 
-### ➖ Lower Friendship
+### ➖ Lower friendship raning
 * Hit them with a tool
 * Push them around a lot
-* Give them “trash” items (tire, boot, weeds, rotten turnips, etc.)
+* Give them trash items (tire, boot, weeds, rotten turnips, etc.)
 * Decline a request
 * Accept a request but fail to carry it out
 
