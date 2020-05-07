@@ -19,6 +19,7 @@
   * [Custom designs](#custom-designs)
   * [Island tune](#island-tune)
   * [Gardening](#gardening)
+  * [Friendship](#friendship)
   * [Trading/Catalog](#tradingcatalog)
   * [Turnips and the Stalk Market](#turnips-and-the-stalk-market)
   * [Layout](#layout)
@@ -31,7 +32,7 @@
     * [Music](#music)
     * [Clothing and designs](#clothing-and-designs)
   * [Visiting other islands](#visiting-other-islands)
-* [Friendship](#friendship)
+  * [Friendship with villagers](#friendship-with-villagers)
 * [Timing](#timing)
   * [Dailies](#dailies)
 * [NPC visitors](#npc-visitors)
@@ -63,6 +64,11 @@
 * [**Garden science FAQ**](https://docs.google.com/document/d/1XPAaPUvGMWQ-n5sBLV3jM78QKxqKjiGCzx5HnD7K5RI/preview): Knowledge about hybrid flowers is always changing — this guide contains the most up-to-date and accurated crowdsourced information and shows you which graphics are outdated by their findings.
 * [**Flower breeding simulator**](https://gardenscience.ac/): In-browser simulator of hybrid possibilities determined by genetics.
 * [**Flower research links**](https://docs.google.com/spreadsheets/d/1rbYbQ0i3SuTu30KTma5dO4uuJWr_SjOZXA1l4UOIHWo/edit?usp=sharing): Spreadsheet containing links to information sanctioned by the above researchers and collaborators. 
+
+### Friendship
+* [**Friendship mechanics**](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/preview?pru=AAABchTeeYc*uM6CbRu9LO7ZlazWYOZxLA): In-depth datamined guide to gaining favor with your villagers.
+* [**Lost item guide**](https://docs.google.com/spreadsheets/d/1dCaPo6N-9XDwOQYMmvv9R7HPqvXPGUF5B6frZs0fcms/edit#gid=0): How to complete the lost item quest for best results.
+* [**Villager gift finder**](https://nookplaza.net/tools): Interactive tool see clothing items your villager will really appreciate based on their favorite color and personal style.
 
 ### Trading/Catalog
 <sup>⚠️ <em>Potential spoiler content in the links below!</em></sup>
@@ -138,23 +144,23 @@
 * If you’re visiting an island for a particular recipe a villager is crafting at their DIY bench, check the map on your NookPhone to see where their house is!
 * Download the [Nintendo Switch Online app](https://www.nintendo.com/switch/online-service/app/) for your phone to use the NookLink feature to type messages in-game using your phone’s keyboard instead of the game controller.
 
-## Friendship
-Certain actions will raise or lower your friendship ranking with your villagers. Note: Friendship rankings do not correlate to move-out requests, which are randomized. <sup>[`source`](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/edit#heading=h.kmdduxio23l3)</sup>
-
-### ➕ Raise friendship ranking
-* Talk to them (once per day)
-* Send them a letter (increases when they reply)
-* Give them a present (when ranking is already high)
-* Give them a wrapped birthday gift
-* Complete a request for them
-* Sell them an item they want
-
-### ➖ Lower friendship raning
-* Hit them with a tool
-* Push them around a lot
-* Give them trash items (tire, boot, weeds, rotten turnips, etc.)
-* Decline a request
-* Accept a request but fail to carry it out
+### Friendship with villagers
+* Friendship rankings do not correlate with move-out requests, which are randomized. <sup>[`source`](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/edit#heading=h.kmdduxio23l3)</sup>
+* Certain actions will raise or lower your friendship ranking with your villagers. <sup>[`source`](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/edit#heading=h.kmdduxio23l3)</sup>
+  * **Raise friendship ranking**
+    * Talk to them (once per day)
+    * Send them a letter (increases when they reply)
+    * Give them a present (when ranking is already high)
+    * Give them a wrapped birthday gift
+    * Complete a request for them
+    * Sell them an item they want
+  * **Lower friendship ranking**
+    * Hit them with a tool
+    * Push them around a lot
+    * Give them trash items (tire, boot, weeds, rotten turnips, etc.)
+    * Decline a request
+    * Accept a request but fail to carry it out
+* For much more information on how to affect friendship and what friendship means in the game, see the links in the [Friendship](#friendship) resources category.
 
 ## Timing
 Time is determined by your Nintendo Switch’s local time. Though midnight local time changes the date, a new “day” in ACNH officially starts at 🕔 **`5:00 am`**, when daily announcements are made on your island, dailies “refill”, visitors arrive/leave, and projects make progress.
