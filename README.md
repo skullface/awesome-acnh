@@ -34,6 +34,7 @@
 * [Timing](#timing)
   * [Dailies](#dailies)
 * [NPC visitors](#npc-visitors)
+* [Lost items](#lost-items)
 * [Tool durability](#tool-durability)
 
 
@@ -226,7 +227,6 @@ If you get the message “Someone lost this…”, then the lost item belongs to
 | **Peppy** |It’s a comic. There’s a girl with big, sparkling eyes on the cover. She’s probably the hero. | It’s an autograph book, but it’s covered with all kinds of sparkly stickers. It’s making my eyes hurt. | A bag made from a soft printed fabric featuring cartoon characters. It’s all lumpy from being packed too full.| A snappy bag covered with buttons and pins of different pop stars. | 
 | **Snooty** | It’s one of those love stories that are so popular nowadays. It has a subtle aroma too. Or is that my imagination?|I think it’s a personal planner. Every line is filled in with precise, perfect handwriting. Err… I should close this. | Maybe this is someone’s makeup bag? It smells like lovely perfume. | A pretty bag that’s been well-loved. It looks like it’s been customized a number of times. |
 | **Big Sister** | A book with pressed flowers inside. OH! It still has the price sticker on it! | This looks like somebody’s notebook. The handwriting is mostly illegible, but I can make out the word “Band.” | A stylish bag adorned with gold metal spikes. It’s got attitude! | The front of the bag has embroidered lettering in gold thread. The words are… “Bikers Are More Fun.” | 
-
 
 ## Tool durability
 Tools only wear down when your action is successful. Ladders, Vaulting Poles, and Wands will not break. Watering empty land decreases a Watering Can’s durability by 10% of its use on flower(s). <sup>[`source`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/31/21194209/durability-list-broken-breaking-shovel-axe-fishing-rod-watering-can-slingshot-bug-net)</sup>
