@@ -211,6 +211,23 @@ After you complete Wisp’s quest you can choose between two options:
   * Clothing: 12%
 * **Something expensive**: Wisp will pick an item with a buying price of ≤10,000 Bells.
 
+## Lost items
+Occasionally you’ll find an item on the ground that isn’t your standard weeds or tree branches! When you pick it up, you’ll find this is a **Lost item** and it belongs to one of your villagers. Selecting <kbd>Investigate</kbd> on the item in your inventory will allow you to see additional information to better determine who the item belongs to based on their personality type. If you return the lost item to the correct villager on the first try, you will receive a better reward. <sup>[`source`](https://docs.google.com/spreadsheets/d/1dCaPo6N-9XDwOQYMmvv9R7HPqvXPGUF5B6frZs0fcms/edit#gid=0)</sup>
+
+If you get the message “Someone lost this…”, then the lost item belongs to a villager below favor level 3 (0-59 friendship points).
+
+| Personality | Book | Notebook | Bag 1 | Bag 2 | 
+|---|---|---|---|---|
+| **Lazy** | A well-used, well-loved picture book. There are little broken bits of candy between the pages… | This looks like someone’s diary. Is this stain from drool? Maybe they fell asleep on it while writing. | This pouch is stuffed with something that smells delicious and is probably full of sugar. | This pouch looks like it’s starting to tear in places. It’s a little sticky too. Did someone spill juice on it?|
+| **Jock** | This book is hard to read. The pages are warped, like they’ve gotten wet before. I think it’s an exercise book. | Somebody scribbled something on the cover in pencil. Looks like it reads, “xtreme xercises”? | A very simple bag… that’s a tad open. I spot some gym clothes, I think. | A dusty, well-used bag. It vaguely smells like those minty sports creams that athletes use. | 
+| **Cranky** | There are lots of pictures of potted trees inside. It looks like an introductory guide to bonsai trees. | An old planner that’s seen plenty of wear and tear. The last page has tally marks… They are up to 12 now. | A sturdy, old-fashioned sort of bag. It gets full points for utility and zero points for style. | This classic pouch was built with functionality in mind, nothing more. It’s the work of a craftsman. Maybe. | 
+| **Smug** | It’s a novel. The author was obviously trying to be fancy by using lots of foreign words. I don’t get it. | The cover of the book says “Mi diario secreto.” I get the feeling I shouldn’t look inside. | It’s a stylish bag. The complex design says more about style than it does about function. | A stylish bag that looks like it could be popular. Whether it actually is popular might depend on the owner… |
+| **Normal** | This novel looks really difficult. It’s the kind of book only a voracious reader would think to pick up. | It reads "My Journal" in tiny letters on the cover. It’s hard not to, but I probably shouldn’t peek inside. | An adorable handcrafted bag with something hard and rectangular inside. Maybe it’s a book? | A bag with a simple design. I can tell it was painstakingly made by hand. |
+| **Peppy** |It’s a comic. There’s a girl with big, sparkling eyes on the cover. She’s probably the hero. | It’s an autograph book, but it’s covered with all kinds of sparkly stickers. It’s making my eyes hurt. | A bag made from a soft printed fabric featuring cartoon characters. It’s all lumpy from being packed too full.| A snappy bag covered with buttons and pins of different pop stars. | 
+| **Snooty** | It’s one of those love stories that are so popular nowadays. It has a subtle aroma too. Or is that my imagination?|I think it’s a personal planner. Every line is filled in with precise, perfect handwriting. Err… I should close this. | Maybe this is someone’s makeup bag? It smells like lovely perfume. | A pretty bag that’s been well-loved. It looks like it’s been customized a number of times. |
+| **Big Sister** | A book with pressed flowers inside. OH! It still has the price sticker on it! | This looks like somebody’s notebook. The handwriting is mostly illegible, but I can make out the word “Band.” | A stylish bag adorned with gold metal spikes. It’s got attitude! | The front of the bag has embroidered lettering in gold thread. The words are… “Bikers Are More Fun.” | 
+
+
 ## Tool durability
 Tools only wear down when your action is successful. Ladders, Vaulting Poles, and Wands will not break. Watering empty land decreases a Watering Can’s durability by 10% of its use on flower(s). <sup>[`source`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/31/21194209/durability-list-broken-breaking-shovel-axe-fishing-rod-watering-can-slingshot-bug-net)</sup>
 
