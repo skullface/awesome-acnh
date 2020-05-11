@@ -63,7 +63,8 @@
 ### Gardening
 * [**Garden science FAQ**](https://docs.google.com/document/d/1XPAaPUvGMWQ-n5sBLV3jM78QKxqKjiGCzx5HnD7K5RI/preview): Knowledge about hybrid flowers is always changing — this guide contains the most up-to-date and accurated crowdsourced information and shows you which graphics are outdated by their findings.
 * [**Flower breeding simulator**](https://gardenscience.ac/): In-browser simulator of hybrid possibilities determined by genetics.
-* [**Flower research links**](https://docs.google.com/spreadsheets/d/1rbYbQ0i3SuTu30KTma5dO4uuJWr_SjOZXA1l4UOIHWo/edit?usp=sharing): Spreadsheet containing links to information sanctioned by the above researchers and collaborators. 
+* [**Flower research data + link hubs**](https://docs.google.com/spreadsheets/d/1rbYbQ0i3SuTu30KTma5dO4uuJWr_SjOZXA1l4UOIHWo/edit?usp=sharing): Spreadsheet containing links to information sanctioned by the above researchers and collaborators and the raw + parsed data the analyses are based on.
+* [**Flower garden planner**](https://nubleh.github.io/flowerplanner/): Plot out your flower gardens with this in-browser visualizing tool.
 
 ### Friendship
 * [**Friendship mechanics**](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/preview?pru=AAABchTeeYc*uM6CbRu9LO7ZlazWYOZxLA): In-depth datamined guide to gaining favor with your villagers.
