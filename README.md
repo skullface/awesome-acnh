@@ -36,6 +36,8 @@
 * [Timing](#timing)
   * [Dailies](#dailies)
 * [NPC visitors](#npc-visitors)
+  * [Wisp](#wisp)
+  * [Redd](#redd)
 * [Tool durability](#tool-durability)
 
 ---
@@ -235,6 +237,13 @@ After you complete Wisp’s quest you can choose between two options:
   * Bed: 24%
   * Clothing: 12%
 * **Something expensive**: Wisp will pick an item with a buying price of ≤10,000 Bells.
+
+### Redd
+
+Starting in the **Earth Day Update (1.2.0)**, [Redd](https://animalcrossing.fandom.com/wiki/Redd) and [Jolly Redd's Treasure Trawler](https://animalcrossing.fandom.com/wiki/Jolly_Redd%27s_Treasure_Trawler) will begin to randomly visit your island (Players need to already have [donated at least 60 items to the museum](https://twitter.com/_Ninji/status/1253290680731959299). Redd's visits are random. Players are able to purchase art and furniture from Redd, but some art is faked. After purchasing the first piece of art from Redd, Blathers will upgrade the Museum to include an art gallery.
+
+* [Poster showing real vs. fake artwork](https://i.redd.it/dq65xhpnlgv41.jpg)
+* [Polygon guide on fake art](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/4/23/21231433/redd-jolly-museum-art-fake-real-forgeries-list-complete-painting-statue)
 
 ## Tool durability
 Tools only wear down when your action is successful. Ladders, Vaulting Poles, and Wands will not break. Watering empty land decreases a Watering Can’s durability by 10% of its use on flower(s). <sup>[`source`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/31/21194209/durability-list-broken-breaking-shovel-axe-fishing-rod-watering-can-slingshot-bug-net)</sup>
