@@ -71,6 +71,7 @@
 ### Friendship
 * [**Friendship mechanics**](https://docs.google.com/document/d/1dy9hDpXzTblQVGjw6jQM0K4dwTjii_v0rm7ooqOXVgg/preview?pru=AAABchTeeYc*uM6CbRu9LO7ZlazWYOZxLA): In-depth datamined guide to gaining favor with your villagers.
 * [**Lost item guide**](https://docs.google.com/spreadsheets/d/1dCaPo6N-9XDwOQYMmvv9R7HPqvXPGUF5B6frZs0fcms/edit#gid=0): How to complete the lost item quest for best results.
+* [**Villager gift checker**](https://nubleh.github.io/favchecker/) [:octocat:](https://github.com/nubleh/favchecker): Mobile-first web app to see if a villager will love a specific clothing item as gift based on their favorite color and personal style.
 * [**Villager gift finder**](https://nookplaza.net/tools): Interactive tool see clothing items your villager will really appreciate based on their favorite color and personal style.
 
 ### Trading/Catalog
