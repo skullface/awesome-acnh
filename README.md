@@ -79,13 +79,13 @@
 * [**Nook Exchange**](https://nook.exchange/): Visual index of all game items with the ability to create an account to share your catalog/wishlist.
 * [**VillagerDB**](https://villagerdb.com/) [:octocat:](https://github.com/jefflomacy/villagerdb): Visual index of all game items with the ability to create an account to share your catalog/wishlist, and create additional lists.
 * [**Nook Plaza**](https://nookplaza.net/): Visual index of all game items. 
-* [**Nookazon**](http://nookazon.com): eBay-esque marketplace where users pay in Bells, not cash.
+* [**Nookazon**](https://nookazon.com): eBay-esque marketplace where users pay in Bells, not cash.
 * [**DodoCodes**](https://dodocodes.com/): Tour other player’s islands for specific items, recipes, villagers, or just for inspiration.
 * [**r/ACTrade**](https://www.reddit.com/r/ACTrade/): Community facilitation of items, recipe, and villager trades.
 * [**r/ACVillager**](https://www.reddit.com/r/ACVillager/): Community facilitation of villager trades or giveaways.
 
 ### Turnips and the Stalk Market
-* [**Turnip Prophet**](http://turnipprophet.io) [:octocat:](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo): Sophisticated Stalk Market predictor to track your price history with a probability percentage. [<kbd>Sponsor</kbd> this project](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo)! `⭐️ strongly recommended` 
+* [**Turnip Prophet**](https://turnipprophet.io) [:octocat:](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo): Sophisticated Stalk Market predictor to track your price history with a probability percentage. [<kbd>Sponsor</kbd> this project](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo)! `⭐️ strongly recommended` 
 * [**Stalks.io**](https://stalks.io): Beautiful Stalk Market predictor to track your profits and price history.
 * [**Turnip Exchange**](https://turnip.exchange/): Queuing app to host visitors for turnip sales and any other tour.
 
