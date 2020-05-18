@@ -227,6 +227,7 @@ Your island will receive regular visitors a few times a week. All visitors arriv
 | Kicks | Plaza | | 10:00 pm 🌙 | Monday – Friday |
 | Label | Plaza | | midnight 🌙 | Monday – Friday |
 | K.K. Slider | Plaza | 6:00 am ☀️ | midnight 🌙 | Saturday only |
+| Redd | Secret beach | | | _unknown_ |
 | Leif | Plaza | | 10:00 pm 🌙 | _unknown_ |
 
 ### Wisp
@@ -240,11 +241,17 @@ After you complete Wisp’s quest you can choose between two options:
 * **Something expensive**: Wisp will pick an item with a buying price of ≤10,000 Bells.
 
 ### Redd
+[Redd](https://animalcrossing.fandom.com/wiki/Redd) sells 4 works art and and 2 furniture items from [Jolly Redd’s Treasure Trawler](https://animalcrossing.fandom.com/wiki/Jolly_Redd%27s_Treasure_Trawler). Each work of art may only be purchased by one player. Each player may only purchase one work of art per day. Purchased art is sent by mail for receipt the following morning. Furniture purchases are unlimited and go into your pocket immediately. 
 
-Starting in the **Earth Day Update (1.2.0)**, [Redd](https://animalcrossing.fandom.com/wiki/Redd) and [Jolly Redd's Treasure Trawler](https://animalcrossing.fandom.com/wiki/Jolly_Redd%27s_Treasure_Trawler) will begin to randomly visit your island (Players need to already have [donated at least 60 items to the museum](https://twitter.com/_Ninji/status/1253290680731959299). Redd's visits are random. Players are able to purchase art and furniture from Redd, but some art is faked. After purchasing the first piece of art from Redd, Blathers will upgrade the Museum to include an art gallery.
-
+#### Real vs. fake artwork
+Beware, Redd is known to sell forgeries! Any of the 4 works of art for sale may be fake. If you purchase forged artwork, Blathers will not accept it into the museum and the Nooklings will not buy it back from you. 
+* [Polygon guide on real vs. fake artwork](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/4/23/21231433/redd-jolly-museum-art-fake-real-forgeries-list-complete-painting-statue)
 * [Poster showing real vs. fake artwork](https://i.redd.it/dq65xhpnlgv41.jpg)
-* [Polygon guide on fake art](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/4/23/21231433/redd-jolly-museum-art-fake-real-forgeries-list-complete-painting-statue)
+
+#### First visit
+* In order for Redd to appear, you need to have [donated at least 60 items to the museum](https://twitter.com/_Ninji/status/1253290680731959299). 
+* On Redd’s first visit, you will find him roaming the island. On subsequent visits, Redd will stay in his docked boat. 
+* After purchasing your first work of art from Redd, Blathers will upgrade the Museum to include an art gallery. 
 
 ## Tool durability
 Tools only wear down when your action is successful. Ladders, Vaulting Poles, and Wands will not break. Watering empty land decreases a Watering Can’s durability by 10% of its use on flower(s). <sup>[`source`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/31/21194209/durability-list-broken-breaking-shovel-axe-fishing-rod-watering-can-slingshot-bug-net)</sup>
