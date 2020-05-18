@@ -76,11 +76,9 @@
 
 ### Trading/Catalog
 <sup>⚠️ <em>Potential spoiler content in the links below!</em></sup>
-
-* [**Nook Exchange**](https://nook.exchange/): Visual index of all game items with the ability to create an account to share your catalog/wishlist.
-* [**VillagerDB**](https://villagerdb.com/) [:octocat:](https://github.com/jefflomacy/villagerdb): Visual index of all game items with the ability to create an account to share your catalog/wishlist, and create additional lists.
-* [**Nook Plaza**](https://nookplaza.net/): Visual index of all game items. 
-* [**Nookazon**](https://nookazon.com): Visual index of all game items with an eBay-esque marketplace to buy/sell items for Bells!
+* [**Nook Exchange**](https://nook.exchange/): Visual index of all game items, with the ability to create an account to share your catalog/wishlist.
+* [**VillagerDB**](https://villagerdb.com/) [:octocat:](https://github.com/jefflomacy/villagerdb): Visual index of all game items, with the ability to create an account to share your catalog/wishlist, and create additional lists.
+* [**Nook Market**](https://nook.market): Auctionhouse and marketplace to buy, sell, or bid on items for Bells or Nook Miles Tickets.
 * [**DodoCodes**](https://dodocodes.com/): Tour other player’s islands for specific items, recipes, villagers, or just for inspiration.
 * [**r/ACTrade**](https://www.reddit.com/r/ACTrade/): Tightly-moderated community facilitation of items, recipe, and villager trades.
 * [**r/ACVillager**](https://www.reddit.com/r/ACVillager/): Tightly-moderated community facilitation of villager trades or giveaways.
@@ -210,10 +208,7 @@ Every day starting at 🕔 **`5:00 am`**, you can accomplish these tasks all ove
     * [ ] Catch 5 wasps/wasp nests
     * [ ] Chop wood
 
-
 ## NPC visitors
-<sup>⚠️ <em>Potential spoiler content!</em></sup> 
- 
 Your island will receive regular visitors a few times a week. All visitors arrive at `5:00 am` and will stay until `5:00 am` the next day unless otherwise stated. <sup><a href="https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/preview#"><code>source</code></a></sup>
 
 | Visitor | Location | Arrives | Departs | Day of week |
@@ -224,11 +219,11 @@ Your island will receive regular visitors a few times a week. All visitors arriv
 | CJ | roaming | | | except Saturday |
 | Flick | roaming | | | except Saturday |
 | Gulliver | beach | | | except Saturday |
-| Celeste | roaming | 7:00 pm 🌙 | | |
+| Celeste | roaming | 7:00 pm 🌙 on nights with shooting stars | | |
 | Kicks | Plaza | | 10:00 pm 🌙 | Monday – Friday |
 | Label | Plaza | | midnight 🌙 | Monday – Friday |
 | K.K. Slider | Plaza | 6:00 am ☀️ | midnight 🌙 | Saturday only |
-| Redd | Secret beach | | | _unknown_ |
+| Redd | secret beach | | | _unknown_ |
 | Leif | Plaza | | 10:00 pm 🌙 | _unknown_ |
 
 ### Wisp
