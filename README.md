@@ -144,6 +144,7 @@
 * If you’re visiting a stranger for a trade, it’s polite not to talk to their residents. Villagers will remember you and ask about you, and it can be awkward and unwanted for a neighbor to ask about a stranger that came by for a deal!
 * Unlike Sahara, Leif, Kicks, etc., you can only buy one piece of art from any Jolly Redd per day and obtain one recipe from any Celeste per night.
 * Adding a player to your Best Friends list via the NookPhone means you can use your shovel and axe tools on their island.
+* If you’re hosting visitors for a roaming guest like Sahara or Celeste, try sharing their last known location via coordinates in the map app.
 * If you’re visiting an island for a particular recipe a villager is crafting at their DIY bench, check the map on your NookPhone to see where their house is!
 * Download the [Nintendo Switch Online app](https://www.nintendo.com/switch/online-service/app/) for your phone to use the NookLink feature to type messages in-game using your phone’s keyboard instead of the game controller.
 
