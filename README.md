@@ -219,7 +219,7 @@ Your island will receive regular visitors a few times a week. All visitors arriv
 | CJ | roaming | | | except Saturday |
 | Flick | roaming | | | except Saturday |
 | Gulliver | beach | | | except Saturday |
-| Celeste | roaming | 7:00 pm 🌙 on nights with shooting stars | | |
+| Celeste | roaming | 7:00 pm 🌙<br>nights with shooting stars | | |
 | Kicks | Plaza | | 10:00 pm 🌙 | Monday – Friday |
 | Label | Plaza | | midnight 🌙 | Monday – Friday |
 | K.K. Slider | Plaza | 6:00 am ☀️ | midnight 🌙 | Saturday only |
