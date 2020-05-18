@@ -63,7 +63,7 @@
 * [**AC Tune Maker**](https://ac-tune-maker.aikats.us/) [:octocat:](https://github.com/walfie/ac-tune-maker): Web app to easily make and share an island tune.
 
 ### Gardening
-* [**Garden science FAQ**](https://docs.google.com/document/d/1XPAaPUvGMWQ-n5sBLV3jM78QKxqKjiGCzx5HnD7K5RI/preview): Knowledge about hybrid flowers is always changing — this guide contains the most up-to-date and accurated crowdsourced information and shows you which graphics are outdated by their findings.
+* [**Garden science FAQ**](https://docs.google.com/document/d/1XPAaPUvGMWQ-n5sBLV3jM78QKxqKjiGCzx5HnD7K5RI/preview): Guide containing the most up-to-date and accurated crowdsourced information regarding flower breeding. It also shows you which popular tutorial graphics are outdated or inacurrate by their findings.
 * [**Flower breeding simulator**](https://gardenscience.ac/): In-browser simulator of hybrid possibilities determined by genetics.
 * [**Flower research data + link hubs**](https://docs.google.com/spreadsheets/d/1rbYbQ0i3SuTu30KTma5dO4uuJWr_SjOZXA1l4UOIHWo/edit?usp=sharing): Spreadsheet containing links to information sanctioned by the above researchers and collaborators and the raw + parsed data the analyses are based on.
 * [**Flower garden planner**](https://nubleh.github.io/flowerplanner/) [:octocat:](https://github.com/nubleh/flowerplanner): Plot out your flower gardens with this in-browser visualizing tool.
@@ -80,15 +80,16 @@
 * [**Nook Exchange**](https://nook.exchange/): Visual index of all game items with the ability to create an account to share your catalog/wishlist.
 * [**VillagerDB**](https://villagerdb.com/) [:octocat:](https://github.com/jefflomacy/villagerdb): Visual index of all game items with the ability to create an account to share your catalog/wishlist, and create additional lists.
 * [**Nook Plaza**](https://nookplaza.net/): Visual index of all game items. 
-* [**Nookazon**](https://nookazon.com): eBay-esque marketplace where users pay in Bells, not cash.
+* [**Nookazon**](https://nookazon.com): Visual index of all game items with an eBay-esque marketplace to buy/sell items for Bells!
 * [**DodoCodes**](https://dodocodes.com/): Tour other player’s islands for specific items, recipes, villagers, or just for inspiration.
-* [**r/ACTrade**](https://www.reddit.com/r/ACTrade/): Community facilitation of items, recipe, and villager trades.
-* [**r/ACVillager**](https://www.reddit.com/r/ACVillager/): Community facilitation of villager trades or giveaways.
+* [**r/ACTrade**](https://www.reddit.com/r/ACTrade/): Tightly-moderated community facilitation of items, recipe, and villager trades.
+* [**r/ACVillager**](https://www.reddit.com/r/ACVillager/): Tightly-moderated community facilitation of villager trades or giveaways.
 
 ### Turnips and the Stalk Market
 * [**Turnip Prophet**](https://turnipprophet.io) [:octocat:](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo): Sophisticated Stalk Market predictor to track your price history with a probability percentage. [<kbd>Sponsor</kbd> this project](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo)! `⭐️ strongly recommended` 
 * [**Stalks.io**](https://stalks.io): Beautiful Stalk Market predictor to track your profits and price history.
-* [**Turnip Exchange**](https://turnip.exchange/): Queuing app to host visitors for turnip sales and any other tour.
+* [**r/ACTurnips**](https://www.reddit.com/r/ACTurnips): Tightly-moderated community facilitation of turnip sales.
+* [**Turnip Exchange**](https://turnip.exchange/): Queuing web app to host visitors for turnip sales and any other tour.
 
 ### Layout
 * [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Plot out your island layout via mini-map in the browser.
