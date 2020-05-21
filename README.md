@@ -50,7 +50,8 @@
 
 ### Gameplay
 * [**Travel Guide**](https://jeffreykuiken.nl/acnhtg/): iOS app to serve as your pocket companion while playing; listing bugs and fish available to catch _right now_, with location, size and sale prices; inventory of villagers and all items including fossils, art, K.K. Slider songs, and flowers. `⭐️ strongly recommended` 
-* [**Critterpedia**](https://critterpedia.moppler.co.uk) [:octocat:](https://github.com/Moppler/Critterpedia): Mobile-first web app listing bugs and fish available to catch _right now_, with location and sale price.
+* [**Critterpedia (1)**](https://critterpedia.moppler.co.uk) [:octocat:](https://github.com/Moppler/Critterpedia): Mobile-first web app listing bugs and fish available to catch _right now_, with location and sale price.
+* [**Critterpedia (2)**](https://critterpedia.nharox.com) (**in Beta**) Another Critterpedia tool with a grid format. Also shows Fossils and Art. You can select the items you have already found/donated and have them saved in the webapp to the Collection tab.
 * [**Mystery Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Nook Miles island layouts and the probability of landing on them.
 
 ### Custom designs
