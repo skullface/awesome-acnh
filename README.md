@@ -272,6 +272,21 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
 | Watering Can | ~60 uses 🌷 | Water flowers | |
 </details>
 
+<details open>
+  <summary>
+    <strong>Gold tools</strong>
+  </summary>
+
+| 🧰 Tool | 💔 Break point | ℹ️ How to obtain recipe |
+| :--- | :--- | :--- |
+| Golden Axe | 200 hits 🌲 | Obtained after breaking Axes a total of 100 times |
+| Golden Shovel | 200 uses 🕳 | Mailed after helping Gulliver 30 times |
+| Golden Slingshot | 90 balloons 🎈 | Obtained from golden balloon, spawns after popping 300 balloons |
+| Golden Fishing Rod | 90 catches 🐠 | Mailed after catching every fish |
+| Golden Net | 90 bugs 🐛 | Mailed after catching every bug |
+| Golden Watering Can | ~180 uses 🌷 | Obtained after achieving 5-star island rank |
+</details>
+
 <details>
   <summary>
     <strong>Flimsy tools</strong>
