@@ -97,7 +97,8 @@
 * [**r/AnimalCrossingTours**](https://www.reddit.com/r/AnimalCrossingTours/): Community inspiration hub for island and room layouts.
 
 ## Controls
-* Hold <kbd>A</kbd> on an item to grab it and reorganize things in your pocket
+* In your pocket, hold <kbd>A</kbd> on an item to grab and reorder
+* In your pocket, hold <kbd>A</kbd> on an item to grab it and place it on top of the same item to create a new stack. (For example, take out 3 10,000 Bell bags from your wallet, then grab and drop two of them on top of another to create one 30,000 Bell bag.) 
 * Hold <kbd>B</kbd> to run
 * Press <kbd>A</kbd> while crafting/customizing to speed up the animation
 * Press <kbd>B</kbd> or <kbd>L</kbd> while talking to characters to speed up the conversation
@@ -138,6 +139,7 @@
 * The following items retain their most recent customization even after the art in the custom design slot is deleted or changed: island flag, phone case, face paint.
 
 ### Visiting other islands
+* Download the [Nintendo Switch Online app](https://www.nintendo.com/switch/online-service/app/) for your phone to use the NookLink feature to type messages in-game using your phone’s keyboard instead of the game controller.
 * Don’t run through flowers. It takes time for the blooms to grow back. Be sure to walk wherever you see flowers.
 * Don’t leave by pressing the <kbd>-</kbd> button. It will interrupt the progress of every other visitor’s interactions. 
 * Ask before you buy one of the 2-3 furniture items at the back wall of Nook’s Cranny or art from Jolly Redd. These items can only be purchased once, so it’s polite to ask if it’s okay for you to buy it. (The small items on the table at Nook’s and furniture from Jolly Redd have no purchase limit. And you can always offer to let the island owner catalog the Nook’s item!)
@@ -147,7 +149,7 @@
 * Adding a player to your Best Friends list via the NookPhone means you can use your shovel and axe tools on their island.
 * If you’re hosting visitors for a roaming guest like Sahara or Celeste, try sharing their last known location via coordinates in the map app.
 * If you’re visiting an island for a particular recipe a villager is crafting at their DIY bench, check the map on your NookPhone to see where their house is!
-* Download the [Nintendo Switch Online app](https://www.nintendo.com/switch/online-service/app/) for your phone to use the NookLink feature to type messages in-game using your phone’s keyboard instead of the game controller.
+* You cannot invite a camper on another island to move into your island.
 
 ### Friendship with villagers
 * Friendship rankings do not correlate with move-out requests, which are randomized. <sup>[`source`](https://docs.google.com/document/d/1-8kQMnmduhraliqCrehaAviG0qlm5BnAb73rPPOf-z0/edit#heading=h.kmdduxio23l3)</sup>
